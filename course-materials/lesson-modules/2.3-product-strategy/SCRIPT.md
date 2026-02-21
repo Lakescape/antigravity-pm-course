@@ -361,9 +361,9 @@ These are the most valuable real-world PM skills - you now have Antigravity work
 
 One more thing before we wrap up - let's create a visual for your strategy presentation!
 
-**Switch your model to Gemini 3 Pro (High)** if you haven't already - we're going to generate an image
+**Switch your model to Gemini 3.1 Pro (High)** if you haven't already - we're going to generate an image
 
-**STOP: Have you switched to Gemini 3 Pro (High)?**
+**STOP: Have you switched to Gemini 3.1 Pro (High)?**
 
 **USER: Confirms**
 

@@ -193,7 +193,7 @@ We'll dive deep into Planning mode in Module 1.5 - it's incredibly powerful for 
 
 Finally, let's look at the **model selector**
 
-Antigravity gives you access to different AI models. Look for where you can select the model - it might show "Gemini 3 Flash" or "Gemini 3 Pro" or similar
+Antigravity gives you access to different AI models. Look for where you can select the model - it might show "Gemini 3.1 Flash" or "Gemini 3.1 Pro" or similar
 
 **STOP: What model options do you see?**
 
@@ -201,11 +201,11 @@ Antigravity gives you access to different AI models. Look for where you can sele
 
 Here's the quick guide on models:
 
-**Gemini 3 Flash** - Works perfectly for this entire course! Fast and capable.
+**Gemini 3.1 Flash** - Works perfectly for this entire course! Fast and capable.
 
-**Gemini 3 Pro** - The more powerful option. Generally the best ROI for any task - it's excellent at everything. If you want the best results and don't mind slightly longer responses, use Pro.
+**Gemini 3.1 Pro** - The more powerful option. Generally the best ROI for any task - it's excellent at everything. If you want the best results and don't mind slightly longer responses, use Pro.
 
-**Gemini 3 Pro (High) / Deep Think** - For really complex reasoning tasks. We'll use this for image generation and heavy analysis later.
+**Gemini 3.1 Pro (High) / Deep Think** - For really complex reasoning tasks. We'll use this for image generation and heavy analysis later.
 
 For now, Flash or Pro both work great. Use what you prefer!
 

@@ -15,7 +15,7 @@ Let me show you the complete workflow we'll follow. Here are the 3 phases:
 
 This is how great PMs work: discover with data, estimate impact, build, analyze results, iterate.
 
-**Pro tip:** For heavy data analysis like this, consider switching to **Gemini 3 Pro (High)** for best results.
+**Pro tip:** For heavy data analysis like this, consider switching to **Gemini 3.1 Pro (High)** for best results.
 
 **STOP: Make sense? Ready to dive in?**
 

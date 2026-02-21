@@ -35,16 +35,16 @@ This needs: messaging strategy, email sequences, in-app announcements, and succe
 That's complex enough that Planning mode will really shine
 
 **Before we start, make two changes:**
-- **Switch to Gemini 3 Pro (High)** - Planning mode works best with more powerful models. Look for the model selector and change it.
+- **Switch to Gemini 3.1 Pro (High)** - Planning mode works best with more powerful models. Look for the model selector and change it.
 - **Switch to Planning Mode** - Look for the mode toggle near the chat input and switch from Fast to Planning.
 
-**STOP: Have you made both changes? (Gemini 3 Pro High selected AND Planning mode enabled)**
+**STOP: Have you made both changes? (Gemini 3.1 Pro High selected AND Planning mode enabled)**
 
 **USER: Confirms both changes made**
 
 ---
 
-**IMPORTANT: Before proceeding, verify the student has made BOTH changes: (1) Gemini 3 Pro (High) model selected, and (2) Planning mode enabled. If they're not sure, have them check both settings before continuing.**
+**IMPORTANT: Before proceeding, verify the student has made BOTH changes: (1) Gemini 3.1 Pro (High) model selected, and (2) Planning mode enabled. If they're not sure, have them check both settings before continuing.**
 
 ---
 
@@ -165,7 +165,7 @@ Antigravity can generate images using Nano Banana Pro - Google's image generatio
 
 For a product launch, you often need visuals: mockups, announcement graphics, presentation images
 
-Good news: you're already on **Gemini 3 Pro (High)** from when we enabled Planning mode - that's the model required for image generation!
+Good news: you're already on **Gemini 3.1 Pro (High)** from when we enabled Planning mode - that's the model required for image generation!
 
 **STOP: Ready to generate a visual?**
 
@@ -216,7 +216,7 @@ Let's recap what you learned:
 
 **Planning Mode:** Creates a Task file with structured breakdown. Asks clarifying questions before executing. You see the plan BEFORE work begins. Perfect for complex, multi-step PM work.
 
-**Image Generation (Nano Banana Pro):** Requires Gemini 3 Pro (High) model (which you already have enabled). Generate UI mockups, graphics, visualizations. Great for PRDs, presentations, launch materials.
+**Image Generation (Nano Banana Pro):** Requires Gemini 3.1 Pro (High) model (which you already have enabled). Generate UI mockups, graphics, visualizations. Great for PRDs, presentations, launch materials.
 
 **When to use which mode:** **Fast Mode** - Simple tasks, questions, quick edits. **Planning Mode** - Complex deliverables, multi-step projects, anything where you want to see the plan first.
 
@@ -266,16 +266,16 @@ You'll set up rules that make the agent understand your preferences, terminology
 - Make sure the user actually answers the questions - their choices matter!
 
 **Image generation:**
-- REQUIRES Gemini 3 Pro (High) / Deep Think model
+- REQUIRES Gemini 3.1 Pro (High) / Deep Think model
 - Use Nano Banana Pro for image generation
 - Generate realistic UI mockups that look professional
 
 **Mode switching:**
-- Verify student has BOTH Gemini 3 Pro (High) AND Planning mode enabled before the exercise
+- Verify student has BOTH Gemini 3.1 Pro (High) AND Planning mode enabled before the exercise
 - Have them switch back to Fast mode at the end
 
 **Key teaching points:**
-- Gemini 3 Pro (High) + Planning Mode = best combo for complex work
+- Gemini 3.1 Pro (High) + Planning Mode = best combo for complex work
 - Upfront planning = better results
 - Clarifying questions = the agent adapts to YOUR needs
 - You see the plan BEFORE execution
@@ -292,7 +292,7 @@ You'll set up rules that make the agent understand your preferences, terminology
 
 Module 1.5 is successful if the student:
 - ✅ Understands Planning Mode vs Fast Mode
-- ✅ Switched to Gemini 3 Pro (High) for Planning Mode (more powerful = better planning)
+- ✅ Switched to Gemini 3.1 Pro (High) for Planning Mode (more powerful = better planning)
 - ✅ Saw the Task file breakdown in Planning Mode
 - ✅ Answered clarifying questions and saw how the agent adapted
 - ✅ Created launch deliverables using Planning Mode

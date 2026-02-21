@@ -148,7 +148,7 @@ Antigravity equivalent:
 - File explorer in editor
 - @ mentions work similarly
 - Autonomy level selector (Agent-driven/Agent-assisted/Review-driven)
-- Model selector (Gemini 3 Pro, Claude options)
+- Model selector (Gemini 3.1 Pro, Claude options)
 
 ## Module 1.5 Rewrite Notes (Three Modes → Autonomy & Planning)
 

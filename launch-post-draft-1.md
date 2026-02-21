@@ -10,7 +10,7 @@ Not just for developers!
 For ANYONE who works with text.
 
 It's 100% free right now.
-Access to Gemini 3 Pro.
+Access to Gemini 3.1 Pro.
 Even Claude Opus 4.5 (!)
 Generate images with Nano Banana Pro right in the chat.
 No subscription. No trial. No credit card.

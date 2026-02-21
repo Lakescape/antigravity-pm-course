@@ -14,7 +14,7 @@ An AI-powered workspace that lets you:
 
 The wildest part?
 It's completely free right now.
-Gemini 3 Pro. Claude Opus 4.5. Nano Banana Pro for images.
+Gemini 3.1 Pro. Claude Opus 4.5. Nano Banana Pro for images.
 All of it. Free.
 
 (This won't last forever.)

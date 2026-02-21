@@ -20,7 +20,7 @@ Their answer to Cursor.
 But here's the thing nobody's talking about:
 
 It's 100% free right now.
-Gemini 3 Pro.
+Gemini 3.1 Pro.
 Claude Opus 4.5.
 Nano Banana Pro for generating images.
 All free. No subscription. No trial period.

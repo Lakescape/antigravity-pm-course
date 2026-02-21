@@ -255,9 +255,9 @@ But first... let's celebrate!
 
 You just completed an entire module of learning. That deserves something special.
 
-**Switch your model to Gemini 3 Pro (High)** if you haven't already - we're going to generate a celebratory image!
+**Switch your model to Gemini 3.1 Pro (High)** if you haven't already - we're going to generate a celebratory image!
 
-**STOP: Have you switched to Gemini 3 Pro (High)?**
+**STOP: Have you switched to Gemini 3.1 Pro (High)?**
 
 **USER: Confirms**
 
